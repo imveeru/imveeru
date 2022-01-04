@@ -19,7 +19,7 @@
 <a href="https://www.hackerrank.com/imveeru14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imveeru14" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imveeru&show_icons=true&locale=en" alt="imveeru" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imveeru&show_icons=true&locale=en" alt="imveeru" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imveeru&" alt="imveeru" /></p>
-
+ -->
