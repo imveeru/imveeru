@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring, DSA**
 
-- ✨ Check out my portfolio website at [veeramanohar.co](https://veeramanohar.co)
+- ✨ Check out my portfolio website at [imveeru.github.io](https://imveeru.github.io)
 
 - 📫 How to reach me **imveeru14@gmail.com**
 
