@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imveeru&label=Profile%20views&color=0e75b6&style=flat" alt="imveeru" /> </p>
 
-- 🌱 I’m currently learning **Spring, DSA**
+- 🌱 I’m currently learning **DSA**
 
 - ✨ Check out my portfolio website at [imveeru.github.io](https://imveeru.github.io)
 
