@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Veeramanohar</h1>
+<h1 align="center">Hi 👋, I'm Veeramanohar Avudaiappan</h1>
 <h3 align="center">A passionate Developer and Designer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imveeru&label=Profile%20views&color=0e75b6&style=flat" alt="imveeru" /> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently researching on Evolutionary Algorithms, Generative AI, and Artificial Intelligence.
 
 - ✨ Check out my portfolio website at [imveeru.github.io](https://imveeru.github.io)
 
 - 📫 How to reach me **imveeru14@gmail.com**
-
-- 📄 Know about my experiences [https://bit.ly/veeramanohar-resume](https://bit.ly/veeramanohar-resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
