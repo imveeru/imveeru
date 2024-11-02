@@ -1,7 +1,7 @@
 Hello!
-Here's a formula: (β ∧ Φ) + γ = Ω, tried decoding it?
+Here's a formula: **(β ∧ Φ) + γ = Ω** , tried decoding it?
 
-It’s just "(Busy and Productive) + Curiosity = Peace" — that’s how I work.
+It’s just **"(Busy and Productive) + Curiosity = Peace"** — that’s how I work.
 
 Here’s what has kept me productively busy over time:
  - Building AI/ML products that turn data into gold 💰. [1yr of exp.]
